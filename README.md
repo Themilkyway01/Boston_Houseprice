@@ -36,15 +36,19 @@ boston_houseprice/
 最终采用的多项式回归模型拟合效果最好，**RMSE = 7%**，**R2 = 85.5%**。
 
 ## 示例结果
+
 <div align="center">
     <img src="img/RM_vs_MEDV.png" width="50%">
 </div>
 
+
 ![Scatter_matrix](img/Scatter_matrix.png)
+
 
 <div align="center">
     <img src="img/True_vs_Predicted_Prices.png" width="50%">
 </div>
+
 
 ![Linear_vs_Polynomial](img/Linear_vs_Polynomial.png)
 
