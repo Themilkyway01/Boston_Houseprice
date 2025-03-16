@@ -24,7 +24,7 @@ boston_houseprice/
 ![img](img/img.png)
 
 ## 功能特性
-- 数据探索性分析（EDA）
+- 数据探索性分析
 - 特征工程处理
 - 多种回归模型比较（线性回归 / 多项式回归）
 - 模型评估与可视化
@@ -61,5 +61,3 @@ boston_houseprice/
 ## 免费资源链接
 - [Github](https://github.com/Themilkyway01/Boston_Houseprice)
 - [GitCode](https://gitcode.com/Galaxy_zero/boston_houseprice)
-- [线性回归]()
-- [多项式回归]()
