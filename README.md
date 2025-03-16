@@ -37,15 +37,21 @@ boston_houseprice/
 
 ## 示例结果
 
+---
+
 ***房间数与房价散点图***
 
 <div align="center">
     <img src="img/RM_vs_MEDV.png" width="50%">
 </div>
 
+---
+
 ***相关性大于 0.45 的特征值与房价散点矩阵图***
 
 ![Scatter_matrix](img/Scatter_matrix.png)
+
+---
 
 ***真实值和预测值散点图***
 
@@ -53,10 +59,13 @@ boston_houseprice/
     <img src="img/True_vs_Predicted_Prices.png" width="50%">
 </div>
 
+---
+
 ***线性回归与多项式回归散点比较图***
 
 ![Linear_vs_Polynomial](img/Linear_vs_Polynomial.png)
 
+---
 
 ## 缺陷
 - 模型构建较为生疏，代码较为粗糙
