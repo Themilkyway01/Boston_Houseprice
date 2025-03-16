@@ -59,7 +59,7 @@ boston_houseprice/
 - 可视化部分较少，可能影响观察和判断
 
 ## 免费资源链接
-- [Github]()
+- [Github](https://github.com/Themilkyway01/Boston_Houseprice)
 - [GitCode](https://gitcode.com/Galaxy_zero/boston_houseprice)
 - [线性回归]()
 - [多项式回归]()
