@@ -10,7 +10,7 @@
 正在学习 **机器学习**，最开始接触的是线性回归和多项式回归，因此选择了经典的 **波士顿房价预测** 作为项目练习。
 
 ## 项目结构
-```
+```plaintext
 boston_houseprice/
 ├── housing.csv # 数据集
 ├── img/ # 项目图片
@@ -53,3 +53,9 @@ boston_houseprice/
 - 模型构建较为生疏，代码较为粗糙
 - 思考过程可能未涉及全面
 - 可视化部分较少，可能影响观察和判断
+
+## 免费资源链接
+- [Github]()
+- [GitCode](https://gitcode.com/Galaxy_zero/boston_houseprice)
+- [线性回归]()
+- [多项式回归]()
